@@ -42,4 +42,4 @@ while password_criteria['length'] > 0:
 
 #    print(new_password)
 
-print(f"Your new password is - {new_password}")
+print(f"Your new password is : {new_password}")
